@@ -24,6 +24,8 @@ class CurrencyPickerViewController: UIViewController, UITableViewDelegate, UITab
     //MARK: Variables
    
     var currString = [String]()
+    
+    
     var currencyDict = [String:String]()
     
     
@@ -31,9 +33,14 @@ class CurrencyPickerViewController: UIViewController, UITableViewDelegate, UITab
     override func viewDidLoad() {
         
         for i in data {
+            
+            
             if i.check == true{
+                
+                
                 currString.append(i.currName)
             }
+            
         }
         super.viewDidLoad()
         
@@ -61,6 +68,7 @@ class CurrencyPickerViewController: UIViewController, UITableViewDelegate, UITab
         
         
         ForeignTableView.register(UITableViewCell.self, forCellReuseIdentifier: "cell2")
+        
         
         self.HomeTableView.reloadData()
         
@@ -220,6 +228,8 @@ class CurrencyPickerViewController: UIViewController, UITableViewDelegate, UITab
         }
         
         sleep(2)
+        
+        
         return currencyDictionary
 }
 

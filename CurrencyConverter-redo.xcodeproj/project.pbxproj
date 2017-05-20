@@ -12,10 +12,10 @@
 		03EBCE6A1ECE9BEA00C56B76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03EBCE691ECE9BEA00C56B76 /* Assets.xcassets */; };
 		03EBCE6D1ECE9BEA00C56B76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03EBCE6B1ECE9BEA00C56B76 /* LaunchScreen.storyboard */; };
 		03EBCE751ECE9C1700C56B76 /* YQL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EBCE741ECE9C1700C56B76 /* YQL.swift */; };
-		03EBCE771ECE9C8F00C56B76 /* FavoritesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EBCE761ECE9C8F00C56B76 /* FavoritesTableViewController.swift */; };
-		03EBCE791ECE9CC700C56B76 /* CurrencyPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EBCE781ECE9CC700C56B76 /* CurrencyPickerViewController.swift */; };
 		03EBCE7B1ECEA4CB00C56B76 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EBCE7A1ECEA4CB00C56B76 /* Data.swift */; };
 		03EBCE7D1ECED61000C56B76 /* FavoritesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EBCE7C1ECED61000C56B76 /* FavoritesTableViewCell.swift */; };
+		03EBCE801ECFCCDC00C56B76 /* CurrencyPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EBCE7E1ECFCCDC00C56B76 /* CurrencyPickerViewController.swift */; };
+		03EBCE811ECFCCDC00C56B76 /* FavoritesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EBCE7F1ECFCCDC00C56B76 /* FavoritesTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,10 +26,10 @@
 		03EBCE6C1ECE9BEA00C56B76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03EBCE6E1ECE9BEA00C56B76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		03EBCE741ECE9C1700C56B76 /* YQL.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YQL.swift; sourceTree = "<group>"; };
-		03EBCE761ECE9C8F00C56B76 /* FavoritesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FavoritesTableViewController.swift; path = ../FavoritesTableViewController.swift; sourceTree = "<group>"; };
-		03EBCE781ECE9CC700C56B76 /* CurrencyPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CurrencyPickerViewController.swift; path = ../CurrencyPickerViewController.swift; sourceTree = "<group>"; };
 		03EBCE7A1ECEA4CB00C56B76 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		03EBCE7C1ECED61000C56B76 /* FavoritesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoritesTableViewCell.swift; sourceTree = "<group>"; };
+		03EBCE7E1ECFCCDC00C56B76 /* CurrencyPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrencyPickerViewController.swift; sourceTree = "<group>"; };
+		03EBCE7F1ECFCCDC00C56B76 /* FavoritesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoritesTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,9 +65,9 @@
 				03EBCE621ECE9BEA00C56B76 /* AppDelegate.swift */,
 				03EBCE661ECE9BEA00C56B76 /* Main.storyboard */,
 				03EBCE7C1ECED61000C56B76 /* FavoritesTableViewCell.swift */,
-				03EBCE781ECE9CC700C56B76 /* CurrencyPickerViewController.swift */,
+				03EBCE7E1ECFCCDC00C56B76 /* CurrencyPickerViewController.swift */,
+				03EBCE7F1ECFCCDC00C56B76 /* FavoritesTableViewController.swift */,
 				03EBCE7A1ECEA4CB00C56B76 /* Data.swift */,
-				03EBCE761ECE9C8F00C56B76 /* FavoritesTableViewController.swift */,
 				03EBCE741ECE9C1700C56B76 /* YQL.swift */,
 				03EBCE691ECE9BEA00C56B76 /* Assets.xcassets */,
 				03EBCE6B1ECE9BEA00C56B76 /* LaunchScreen.storyboard */,
@@ -148,10 +148,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				03EBCE771ECE9C8F00C56B76 /* FavoritesTableViewController.swift in Sources */,
 				03EBCE7D1ECED61000C56B76 /* FavoritesTableViewCell.swift in Sources */,
 				03EBCE7B1ECEA4CB00C56B76 /* Data.swift in Sources */,
-				03EBCE791ECE9CC700C56B76 /* CurrencyPickerViewController.swift in Sources */,
+				03EBCE811ECFCCDC00C56B76 /* FavoritesTableViewController.swift in Sources */,
+				03EBCE801ECFCCDC00C56B76 /* CurrencyPickerViewController.swift in Sources */,
 				03EBCE631ECE9BEA00C56B76 /* AppDelegate.swift in Sources */,
 				03EBCE751ECE9C1700C56B76 /* YQL.swift in Sources */,
 			);
