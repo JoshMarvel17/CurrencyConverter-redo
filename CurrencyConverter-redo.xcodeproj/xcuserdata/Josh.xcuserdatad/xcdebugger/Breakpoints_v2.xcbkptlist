@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyPickerViewController.swift"
+            timestampString = "516927592.228576"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CurrencyPickerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_redo.CurrencyPickerViewController.__deallocating_deinit"
+                  moduleName = "CurrencyConverter-redo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Josh/Documents/IOS%20programming/CurrencyConverter-redo/CurrencyPickerViewController.swift"
+                  timestampString = "516867764.441038"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_redo.CurrencyPickerViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CurrencyConverter_redo.CurrencyPickerViewController"
+                  moduleName = "CurrencyConverter-redo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Josh/Documents/IOS%20programming/CurrencyConverter-redo/CurrencyPickerViewController.swift"
+                  timestampString = "516867764.555994"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_redo.CurrencyPickerViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CurrencyConverter_redo.CurrencyPickerViewController"
+                  moduleName = "CurrencyConverter-redo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Josh/Documents/IOS%20programming/CurrencyConverter-redo/CurrencyPickerViewController.swift"
+                  timestampString = "516867764.560422"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_redo.CurrencyPickerViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CurrencyConverter_redo.CurrencyPickerViewController&gt;"
+                  moduleName = "CurrencyConverter-redo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Josh/Documents/IOS%20programming/CurrencyConverter-redo/CurrencyPickerViewController.swift"
+                  timestampString = "516867764.564085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_redo.CurrencyPickerViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CurrencyConverter_redo.CurrencyPickerViewController&gt;"
+                  moduleName = "CurrencyConverter-redo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Josh/Documents/IOS%20programming/CurrencyConverter-redo/CurrencyPickerViewController.swift"
+                  timestampString = "516867764.567669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyPickerViewController.swift"
+            timestampString = "516934051.482729"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
+            landmarkName = "convertButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyPickerViewController.swift"
+            timestampString = "516934051.482729"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "convertButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyPickerViewController.swift"
+            timestampString = "516927592.228576"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "CurrencyPickerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_redo.CurrencyPickerViewController.c.getter : Swift.Array&lt;CurrencyConverter_redo.Currency&gt;"
+                  moduleName = "CurrencyConverter-redo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Josh/Documents/IOS%20programming/CurrencyConverter-redo/CurrencyPickerViewController.swift"
+                  timestampString = "516922698.87638"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_redo.CurrencyPickerViewController.c.setter : Swift.Array&lt;CurrencyConverter_redo.Currency&gt;"
+                  moduleName = "CurrencyConverter-redo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Josh/Documents/IOS%20programming/CurrencyConverter-redo/CurrencyPickerViewController.swift"
+                  timestampString = "516922698.879538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_redo.CurrencyPickerViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CurrencyConverter_redo.CurrencyPickerViewController"
+                  moduleName = "CurrencyConverter-redo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Josh/Documents/IOS%20programming/CurrencyConverter-redo/CurrencyPickerViewController.swift"
+                  timestampString = "516922698.88232"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "329">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_redo.CurrencyPickerViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CurrencyConverter_redo.CurrencyPickerViewController&gt;"
+                  moduleName = "CurrencyConverter-redo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Josh/Documents/IOS%20programming/CurrencyConverter-redo/CurrencyPickerViewController.swift"
+                  timestampString = "516922698.884813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "226">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyPickerViewController.swift"
+            timestampString = "516927592.228576"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyPickerViewController.swift"
+            timestampString = "516934051.482729"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "callYQL()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
